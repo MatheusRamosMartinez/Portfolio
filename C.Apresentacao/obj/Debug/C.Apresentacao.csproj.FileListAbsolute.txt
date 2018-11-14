@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.frm_crud.resources
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Apresentacao.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Apresentacao.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Negocios.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Dados.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Negocios.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\bin\Debug\C.Dados.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.csproj.CopyComplete
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.frm_alterar.resources
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Apresentacao\obj\Debug\C.Apresentacao.Properties.Resources.resources

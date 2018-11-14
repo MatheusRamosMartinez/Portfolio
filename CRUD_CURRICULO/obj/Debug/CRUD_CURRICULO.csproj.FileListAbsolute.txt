@@ -1,0 +1,16 @@
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.Properties.Resources.resources
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\CRUD_CURRICULO.exe.config
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\CRUD_CURRICULO.exe
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\CRUD_CURRICULO.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Apresentacao.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Apresentacao.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.csproj.CopyComplete
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.exe
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\obj\Debug\CRUD_CURRICULO.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Negocios.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Dados.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Negocios.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\CRUD_CURRICULO\bin\Debug\C.Dados.pdb

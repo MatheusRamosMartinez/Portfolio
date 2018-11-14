@@ -1,0 +1,9 @@
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\bin\Debug\C.Negocios.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\bin\Debug\C.Negocios.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\bin\Debug\C.Dados.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\bin\Debug\C.Dados.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\obj\Debug\C.Negocios.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\obj\Debug\C.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\obj\Debug\C.Negocios.csproj.CopyComplete
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\obj\Debug\C.Negocios.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Negocios\obj\Debug\C.Negocios.pdb

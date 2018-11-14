@@ -1,0 +1,6 @@
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\bin\Debug\C.Dados.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\bin\Debug\C.Dados.pdb
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\obj\Debug\C.Dados.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\obj\Debug\C.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\obj\Debug\C.Dados.dll
+C:\Users\Matheus\source\repos\CRUD_CURRICULO\C.Dados\obj\Debug\C.Dados.pdb
